@@ -1,0 +1,26 @@
+{
+  "name": "terraform_javascript_interface",
+  "version": "1.0.8",
+  "description": "Interface for call terraform from your nodejs proyect, for example you can call apply or destroy terraform command from express or any event",
+  "main": "instanceTerraForm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasseral/terraform_javascript_interface.git"
+  },
+  "keywords": [
+    "Terraform",
+    "express",
+    "interface",
+    "web"
+  ],
+  "author": "jasser garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasseral/terraform_javascript_interface/issues"
+  },
+  "homepage": "https://github.com/jasseral/terraform_javascript_interface#readme"
+
+}
